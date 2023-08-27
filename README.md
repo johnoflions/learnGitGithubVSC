@@ -1,3 +1,3 @@
 # Learn
 
-Learn Git Github togethter with VSC
+Learn Git Github togethter with VSC !
